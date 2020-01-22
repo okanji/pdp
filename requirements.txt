@@ -11,7 +11,7 @@ PyCDS==2.2.1
 PyYAML==4.2b4
 SQLAlchemy==1.1.15
 WebOb==1.7.3
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 argparse==1.4.0
 ga-wsgi-client==0.1
 itsdangerous==0.24
